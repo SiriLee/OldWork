@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杨辉三角", "杨辉三角\杨辉三角.vcxproj", "{0052DB90-544F-471D-BF4C-B8301EADA18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Debug|x64.ActiveCfg = Debug|x64
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Debug|x64.Build.0 = Debug|x64
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Debug|x86.Build.0 = Debug|Win32
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Release|x64.ActiveCfg = Release|x64
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Release|x64.Build.0 = Release|x64
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Release|x86.ActiveCfg = Release|Win32
+		{0052DB90-544F-471D-BF4C-B8301EADA18C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7E59A7-2F84-44B4-BFBE-71F3AD439F88}
+	EndGlobalSection
+EndGlobal
